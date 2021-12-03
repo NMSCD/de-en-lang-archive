@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="GcAlienSpeechTable">
+  <Property name="Table">
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="SHOP1" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="TRADE" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="DEAL" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="FIGHTERS" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="TRADERS" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="EXPLORERS" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="HERIDIUM" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+    <Property value="GcAlienSpeechEntry.xml">
+      <Property name="Id" value="STARCAINE" />
+      <Property name="Text" value="" />
+      <Property name="WordInteractEffect" value="Pain" />
+      <Property name="AlienRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="Level" value="1" />
+    </Property>
+  </Property>
+</Data>
