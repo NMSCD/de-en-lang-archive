@@ -4102,6 +4102,26 @@
 			<Property name="Japanese" value="" />
 			<Property name="USEnglish" value="" />
 		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="UI_EXPED_MILESTONE_BLOCK_MSG">
+			<Property name="Id" value="UI_EXPED_MILESTONE_BLOCK_MSG" />
+			<Property name="English" value="Critical information &lt;FUEL&gt;missing&lt;&gt;&#xA;Complete the &lt;EXPED&gt;%MISSION%&lt;&gt; milestone to proceed&#xA;Select milestones from the Expedition log (&lt;IMG&gt;OPTIONS&lt;&gt;)" />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_1ST">
 			<Property name="Id" value="UI_1ST" />
 			<Property name="English" value="1st" />
@@ -37142,6 +37162,26 @@
 			<Property name="Japanese" value="" />
 			<Property name="USEnglish" value="" />
 		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="UI_SWARMPAGE_SCORE_OFFLINE">
+			<Property name="Id" value="UI_SWARMPAGE_SCORE_OFFLINE" />
+			<Property name="English" value="Prismatic Core Progress: &lt;STELLAR&gt;Unknown&lt;&gt;" />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_SWARMPAGE_TEAM_SCORE">
 			<Property name="Id" value="UI_SWARMPAGE_TEAM_SCORE" />
 			<Property name="English" value="Score: %NUM%" />
@@ -39722,6 +39762,66 @@
 			<Property name="Japanese" value="" />
 			<Property name="USEnglish" value="" />
 		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="BLD_SWARM_TROPHY_R_DESC">
+			<Property name="Id" value="BLD_SWARM_TROPHY_R_DESC" />
+			<Property name="English" value="A constructable replica of Specialist Polo's &lt;SPECIAL&gt;Prismatic Core&lt;&gt; device, assembled from fragments and ichor to counteract the &lt;SPECIAL&gt;Hive of Glass&lt;&gt;.&#xA;&#xA;All aspects of the Traveller soul are represented, forged around a &lt;FUEL&gt;Royal&lt;&gt; heart." />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="BLD_SWARM_TROPHY_G_DESC">
+			<Property name="Id" value="BLD_SWARM_TROPHY_G_DESC" />
+			<Property name="English" value="A constructable replica of Specialist Polo's &lt;SPECIAL&gt;Prismatic Core&lt;&gt; device, assembled from fragments and ichor to counteract the &lt;SPECIAL&gt;Hive of Glass&lt;&gt;.&#xA;&#xA;All aspects of the Traveller soul are represented, forged around a &lt;TRADEABLE&gt;Sage&lt;&gt; heart." />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="BLD_SWARM_TROPHY_B_DESC">
+			<Property name="Id" value="BLD_SWARM_TROPHY_B_DESC" />
+			<Property name="English" value="A constructable replica of Specialist Polo's &lt;SPECIAL&gt;Prismatic Core&lt;&gt; device, assembled from fragments and ichor to counteract the &lt;SPECIAL&gt;Hive of Glass&lt;&gt;.&#xA;&#xA;All aspects of the Traveller soul are represented, forged around a &lt;TECHNOLOGY&gt;Weaver&lt;&gt; heart." />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_CRASHED_SWARM_NAME">
 			<Property name="Id" value="UI_CRASHED_SWARM_NAME" />
 			<Property name="English" value="Swarm Wreckage" />
@@ -39984,7 +40084,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_4_Q">
 			<Property name="Id" value="UI_S22_INTRO_4_Q" />
-			<Property name="English" value="It is part of the truth. But you are fragmented.&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; You are sleeping. What is it you dream of?" />
+			<Property name="English" value="It is part of the truth. But you are fragmented.&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; You are sleeping. What is it you dream of?" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40084,7 +40184,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_5_Q">
 			<Property name="Id" value="UI_S22_INTRO_5_Q" />
-			<Property name="English" value="I dream of my family of glass. But the boundaries are cracking. &lt;GREY&gt;Something is not contained.&lt;&gt;&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; It is the distant past. You have the power to prevent the birth of the First Spawn. The calamity of Korvax Prime will not come to pass, and the Gek will never exist." />
+			<Property name="English" value="I dream of my family of glass. But the boundaries are cracking. &lt;GREY&gt;Something is not contained.&lt;&gt;&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; It is the distant past. You have the power to prevent the birth of the First Spawn. The calamity of Korvax Prime will not come to pass, and the Gek will never exist." />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40144,7 +40244,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_6_Q1">
 			<Property name="Id" value="UI_S22_INTRO_6_Q1" />
-			<Property name="English" value="A decisive choice. I am learning which fragment you are. One of three.&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; You meet an artificial lifeform. They do not know they are artificial. Do you tell them?" />
+			<Property name="English" value="A decisive choice. I am learning which fragment you are. One of three.&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; You meet an artificial lifeform. They do not know they are artificial. Do you tell them?" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40164,7 +40264,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_6_Q2">
 			<Property name="Id" value="UI_S22_INTRO_6_Q2" />
-			<Property name="English" value="As you wish. I am learning which fragment you are. One of three.&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; You meet an artificial lifeform. They do not know they are artificial. Do you tell them?" />
+			<Property name="English" value="As you wish. I am learning which fragment you are. One of three.&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; You meet an artificial lifeform. They do not know they are artificial. Do you tell them?" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40224,7 +40324,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_7_Q">
 			<Property name="Id" value="UI_S22_INTRO_7_Q" />
-			<Property name="English" value="What is truth? What are you?&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; You witness a Vy'keen cub being forced into battle. It is shivering, afraid, and wounded. This ritual is traditional. A requirement for transition into adulthood." />
+			<Property name="English" value="What is truth? What are you?&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; You witness a Vy'keen cub being forced into battle. It is shivering, afraid, and wounded. This ritual is traditional. A requirement for transition into adulthood." />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40284,7 +40384,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_8_Q">
 			<Property name="Id" value="UI_S22_INTRO_8_Q" />
-			<Property name="English" value="&lt;GREY&gt;Something has escaped... help. I need help.&lt;&gt; Two last questions.&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; A young ToilGek is in poverty, working long hours for little pay. They are caught stealing from their wealthy Director. Do you report them?" />
+			<Property name="English" value="&lt;GREY&gt;Something has escaped... help. I need help.&lt;&gt; Two last questions.&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; A young ToilGek is in poverty, working long hours for little pay. They are caught stealing from their wealthy Director. Do you report them?" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -40344,7 +40444,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_INTRO_9_Q">
 			<Property name="Id" value="UI_S22_INTRO_9_Q" />
-			<Property name="English" value="I have assessed your responses. I have assessed your history. Your fragment becomes clearer.&#xA;&#xA;&lt;COMMODITY&gt;Scenario:&lt;&gt; You have sixteen minutes to live. What do you do with your time?" />
+			<Property name="English" value="I have assessed your responses. I have assessed your history. Your fragment becomes clearer.&#xA;&#xA;&lt;ORANGE_DARK&gt;Scenario:&lt;&gt; You have sixteen minutes to live. What do you do with your time?" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -43604,7 +43704,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_HIVE_CHASE_MSG2B">
 			<Property name="Id" value="UI_S22_HIVE_CHASE_MSG2B" />
-			<Property name="English" value="&lt;STELLAR&gt;Eliminate the swarms!&lt;&gt;&#xA;Swarms remaining: &lt;FUEL&gt;%AMOUNT%&lt;&gt;&#xA;%FLIGHT_TIP%" />
+			<Property name="English" value="&lt;STELLAR&gt;Eliminate the swarms!&lt;&gt;&#xA;Swarms remaining: &lt;FUEL&gt;%CURRENT%&lt;&gt;/&lt;FUEL&gt;%AMOUNT%&lt;&gt;&#xA;%FLIGHT_TIP%" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -46502,6 +46602,26 @@
 			<Property name="Japanese" value="" />
 			<Property name="USEnglish" value="" />
 		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_HIVE_KILL_MSG4_MAP">
+			<Property name="Id" value="UI_S22_HIVE_KILL_MSG4_MAP" />
+			<Property name="English" value="Atlas Interface &lt;FUEL&gt;destroyed&lt;&gt;!&#xA;Track the &lt;FUEL&gt;Hive of Glass&lt;&gt; to the &lt;STELLAR&gt;%SYSTEM%&lt;&gt; system!&#xA;In space, consult the Galaxy Map with &lt;IMG&gt;QUICK_MENU&lt;&gt;" />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_HIVE_KILL_OSD">
 			<Property name="Id" value="UI_S22_HIVE_KILL_OSD" />
 			<Property name="English" value="THE HIVE OF GLASS APPROACHES" />
@@ -48105,6 +48225,26 @@
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_SWARM_COMM_MSGB">
 			<Property name="Id" value="UI_S22_SWARM_COMM_MSGB" />
 			<Property name="English" value="&lt;SPECIAL&gt;Prismatic Core&lt;&gt; progress: &lt;STELLAR&gt;%CMTOTALPERCENT%&lt;&gt;&#xA;Undertake missions during swarm activity&#xA;Next activity in: &lt;IMG&gt;CLOCK&lt;&gt;%TIME%" />
+			<Property name="French" value="" />
+			<Property name="Italian" value="" />
+			<Property name="German" value="" />
+			<Property name="Spanish" value="" />
+			<Property name="Russian" value="" />
+			<Property name="Polish" value="" />
+			<Property name="Dutch" value="" />
+			<Property name="Portuguese" value="" />
+			<Property name="LatinAmericanSpanish" value="" />
+			<Property name="BrazilianPortuguese" value="" />
+			<Property name="SimplifiedChinese" value="" />
+			<Property name="TraditionalChinese" value="" />
+			<Property name="TencentChinese" value="" />
+			<Property name="Korean" value="" />
+			<Property name="Japanese" value="" />
+			<Property name="USEnglish" value="" />
+		</Property>
+		<Property name="Table" value="TkLocalisationEntry" _id="UI_S22_SWARM_COMM_MSGB_MC">
+			<Property name="Id" value="UI_S22_SWARM_COMM_MSGB_MC" />
+			<Property name="English" value="&lt;SPECIAL&gt;Prismatic Core&lt;&gt; progress: &lt;STELLAR&gt;%CMTOTALPERCENT%&lt;&gt;&#xA;Undertake missions during swarm activity&#xA;Next activity in: &lt;IMG&gt;CLOCK&lt;&gt;%TIME%&#xA;You may switch between the expedition and your primary save at any time" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -51984,7 +52124,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_SWARM_KILL_GR_SUB">
 			<Property name="Id" value="UI_SWARM_KILL_GR_SUB" />
-			<Property name="English" value="Prevent reclaimation of fallen swarmers" />
+			<Property name="English" value="Prevent reclamation of fallen swarmers" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />
@@ -52024,7 +52164,7 @@
 		</Property>
 		<Property name="Table" value="TkLocalisationEntry" _id="UI_MISSION_OBJ_SWARM_KILL_GR">
 			<Property name="Id" value="UI_MISSION_OBJ_SWARM_KILL_GR" />
-			<Property name="English" value="Disrupt swarm reclaimation operations" />
+			<Property name="English" value="Disrupt swarm reclamation operations" />
 			<Property name="French" value="" />
 			<Property name="Italian" value="" />
 			<Property name="German" value="" />

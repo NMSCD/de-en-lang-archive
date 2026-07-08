@@ -285643,6 +285643,14 @@ DNT_EXPED_EMPTY_MSG
 Notification
 Notification
 
+UI_EXPED_MILESTONE_BLOCK_MSG
+Critical information <FUEL>missing<>
+Complete the <EXPED>%MISSION%<> milestone to proceed
+Select milestones from the Expedition log (<IMG>OPTIONS<>)
+Kritische Informationen <FUEL>fehlen<>.
+Schließe den Meilenstein <EXPED>%MISSION%<> ab, um fortzufahren.
+Wähle Meilensteine aus dem Expeditionsprotokoll (<IMG>OPTIONS<>) aus.
+
 UI_1ST
 1st
 1.
@@ -292710,6 +292718,10 @@ UI_SWARMPAGE_SCORE
 Prismatic Core Construction: %PERCENT%%
 Konstruktion des Prismatischen Kerns: %PERCENT% %.
 
+UI_SWARMPAGE_SCORE_OFFLINE
+Prismatic Core Progress: <STELLAR>Unknown<>
+Konstruktion des Prismatischen Kerns: <STELLAR>Unbekannt<>
+
 UI_SWARMPAGE_TEAM_SCORE
 Score: %NUM%
 Punktzahl: %NUM%
@@ -293314,6 +293326,30 @@ BLD_SWARM_TROPHY_SUB
 Antivitreous Device Memento
 Antivitreus-Gerät – Erinnerungsstück
 
+BLD_SWARM_TROPHY_R_DESC
+A constructable replica of Specialist Polo's <SPECIAL>Prismatic Core<> device, assembled from fragments and ichor to counteract the <SPECIAL>Hive of Glass<>.
+
+All aspects of the Traveller soul are represented, forged around a <FUEL>Royal<> heart.
+Eine baubare Nachbildung des <SPECIAL>Prismatischen Kerns<> von Spezialist Polo, zusammengesetzt aus Fragmenten und Ichor, um dem <SPECIAL>Gläsernen Schwarm<> entgegenzuwirken.
+
+Alle Aspekte der Seele des Reisenden sind vertreten, geschmiedet um ein <FUEL>Hochadel<> Herz.
+
+BLD_SWARM_TROPHY_G_DESC
+A constructable replica of Specialist Polo's <SPECIAL>Prismatic Core<> device, assembled from fragments and ichor to counteract the <SPECIAL>Hive of Glass<>.
+
+All aspects of the Traveller soul are represented, forged around a <TRADEABLE>Sage<> heart.
+Eine baubare Nachbildung des <SPECIAL>Prismatischen Kerns<> von Spezialist Polo, zusammengesetzt aus Fragmenten und Ichor, um dem <SPECIAL>Gläsernen Schwarm<> entgegenzuwirken.
+
+Alle Aspekte der Seele des Reisenden sind vertreten, geschmiedet um ein <TRADEABLE>Weiser<> Herz.
+
+BLD_SWARM_TROPHY_B_DESC
+A constructable replica of Specialist Polo's <SPECIAL>Prismatic Core<> device, assembled from fragments and ichor to counteract the <SPECIAL>Hive of Glass<>.
+
+All aspects of the Traveller soul are represented, forged around a <TECHNOLOGY>Weaver<> heart.
+Eine baubare Nachbildung des <SPECIAL>Prismatischen Kerns<> von Spezialist Polo, zusammengesetzt aus Fragmenten und Ichor, um dem <SPECIAL>Gläsernen Schwarm<> entgegenzuwirken.
+
+Alle Aspekte der Seele des Reisenden sind vertreten, geschmiedet um ein <TECHNOLOGY>Weber<> Herz.
+
 UI_CRASHED_SWARM_NAME
 Swarm Wreckage
 Schwarmwrack
@@ -293377,10 +293413,10 @@ Ein Spieler
 UI_S22_INTRO_4_Q
 It is part of the truth. But you are fragmented.
 
-<COMMODITY>Scenario:<> You are sleeping. What is it you dream of?
+<ORANGE_DARK>Scenario:<> You are sleeping. What is it you dream of?
 Das ist ein Teil der Wahrheit. Aber du bist fragmentiert.
 
-<COMMODITY>Szenario:<> Du schläfst. Wovon träumst du?
+<ORANGE_DARK>Szenario:<> Du schläfst. Wovon träumst du?
 
 UI_S22_INTRO_4_A1
 Flying
@@ -293401,10 +293437,10 @@ Bei einem Test zu versagen
 UI_S22_INTRO_5_Q
 I dream of my family of glass. But the boundaries are cracking. <GREY>Something is not contained.<>
 
-<COMMODITY>Scenario:<> It is the distant past. You have the power to prevent the birth of the First Spawn. The calamity of Korvax Prime will not come to pass, and the Gek will never exist.
+<ORANGE_DARK>Scenario:<> It is the distant past. You have the power to prevent the birth of the First Spawn. The calamity of Korvax Prime will not come to pass, and the Gek will never exist.
 Ich träume von meiner Familie aus Glas. Aber die Grenzen bekommen Risse. <GREY>Etwas scheint zu fehlen.<>
 
-<COMMODITY>Szenario:<> Es ist die ferne Vergangenheit. Du hast die Macht, die Geburt der Erstgebrüteten zu verhindern. Die Katastrophe von Korvax Primus wird sich nicht ereignen, und die Gek wird es nie geben.
+<ORANGE_DARK>Szenario:<> Es ist die ferne Vergangenheit. Du hast die Macht, die Geburt der Erstgebrüteten zu verhindern. Die Katastrophe von Korvax Primus wird sich nicht ereignen, und die Gek wird es nie geben.
 
 UI_S22_INTRO_5_A1
 I prevent the birth of the First Spawn
@@ -293417,18 +293453,18 @@ Ich mische mich nicht in die Geschichte ein.
 UI_S22_INTRO_6_Q1
 A decisive choice. I am learning which fragment you are. One of three.
 
-<COMMODITY>Scenario:<> You meet an artificial lifeform. They do not know they are artificial. Do you tell them?
+<ORANGE_DARK>Scenario:<> You meet an artificial lifeform. They do not know they are artificial. Do you tell them?
 Eine entscheidende Wahl. Ich erfahre, welches Fragment du bist. Eines von dreien.
 
-<COMMODITY>Szenario:<> Du triffst eine künstliche Lebensform. Sie weißt nicht, dass sie künstlich ist. Sagst du es ihr?
+<ORANGE_DARK>Szenario:<> Du triffst eine künstliche Lebensform. Sie weißt nicht, dass sie künstlich ist. Sagst du es ihr?
 
 UI_S22_INTRO_6_Q2
 As you wish. I am learning which fragment you are. One of three.
 
-<COMMODITY>Scenario:<> You meet an artificial lifeform. They do not know they are artificial. Do you tell them?
+<ORANGE_DARK>Scenario:<> You meet an artificial lifeform. They do not know they are artificial. Do you tell them?
 Wie du wünscht. Ich erfahre gerade, welches Fragment du bist. Eines von dreien.
 
-<COMMODITY>Szenario:<> Du triffst eine künstliche Lebensform. Sie weißt nicht, dass sie künstlich ist. Sagst du es ihr?
+<ORANGE_DARK>Szenario:<> Du triffst eine künstliche Lebensform. Sie weißt nicht, dass sie künstlich ist. Sagst du es ihr?
 
 UI_S22_INTRO_6_A1
 No, they are happier not knowing
@@ -293441,10 +293477,10 @@ Ja, sie verdient, die Wahrheit zu erfahren.
 UI_S22_INTRO_7_Q
 What is truth? What are you?
 
-<COMMODITY>Scenario:<> You witness a Vy'keen cub being forced into battle. It is shivering, afraid, and wounded. This ritual is traditional. A requirement for transition into adulthood.
+<ORANGE_DARK>Scenario:<> You witness a Vy'keen cub being forced into battle. It is shivering, afraid, and wounded. This ritual is traditional. A requirement for transition into adulthood.
 Was ist Wahrheit? Was bist du?
 
-<COMMODITY>Szenario:<> Du wirst Zeuge, wie ein Vy’keen-Junges in den Kampf gezwungen wird. Es zittert, hat Angst und ist verwundet. Dieses Ritual ist traditionell. Eine Voraussetzung für den Übergang ins Erwachsenenalter.
+<ORANGE_DARK>Szenario:<> Du wirst Zeuge, wie ein Vy’keen-Junges in den Kampf gezwungen wird. Es zittert, hat Angst und ist verwundet. Dieses Ritual ist traditionell. Eine Voraussetzung für den Übergang ins Erwachsenenalter.
 
 UI_S22_INTRO_7_A1
 I decide this is wrong, and rescue the cub
@@ -293457,10 +293493,10 @@ Ich respektiere die Kultur der Vy’keen und überlasse es sich selbst.
 UI_S22_INTRO_8_Q
 <GREY>Something has escaped... help. I need help.<> Two last questions.
 
-<COMMODITY>Scenario:<> A young ToilGek is in poverty, working long hours for little pay. They are caught stealing from their wealthy Director. Do you report them?
+<ORANGE_DARK>Scenario:<> A young ToilGek is in poverty, working long hours for little pay. They are caught stealing from their wealthy Director. Do you report them?
 <GREY>Etwas ist entkommen ... Hilfe. Ich brauche Hilfe.<> Zwei letzte Fragen.
 
-<COMMODITY>Szenario:<> Ein junger Schufter-Gek haust in Armut und arbeitet lange für wenig Geld. Er wird dabei erwischt, wie er seinen wohlhabenden Direktor bestiehlt. Würdest du ihn melden?
+<ORANGE_DARK>Szenario:<> Ein junger Schufter-Gek haust in Armut und arbeitet lange für wenig Geld. Er wird dabei erwischt, wie er seinen wohlhabenden Direktor bestiehlt. Würdest du ihn melden?
 
 UI_S22_INTRO_8_A1
 Yes, stealing is wrong
@@ -293473,10 +293509,10 @@ Nein, der Direktor kann das Diebesgut entbehren.
 UI_S22_INTRO_9_Q
 I have assessed your responses. I have assessed your history. Your fragment becomes clearer.
 
-<COMMODITY>Scenario:<> You have sixteen minutes to live. What do you do with your time?
+<ORANGE_DARK>Scenario:<> You have sixteen minutes to live. What do you do with your time?
 Ich habe deine Antworten bewertet. Ich habe deine Geschichte bewertet. Dein Fragment wird klarer.
 
-<COMMODITY>Szenario:<> Du hast nur noch sechzehn Minuten zu leben. Was machst du mit deiner Zeit?
+<ORANGE_DARK>Szenario:<> Du hast nur noch sechzehn Minuten zu leben. Was machst du mit deiner Zeit?
 
 UI_S22_INTRO_9_A1
 Perform a kindness
@@ -294340,10 +294376,10 @@ Kehre in den Weltraum zurück, um die Schwärme zu bekämpfen.
 
 UI_S22_HIVE_CHASE_MSG2B
 <STELLAR>Eliminate the swarms!<>
-Swarms remaining: <FUEL>%AMOUNT%<>
+Swarms remaining: <FUEL>%CURRENT%<>/<FUEL>%AMOUNT%<>
 %FLIGHT_TIP%
 <STELLAR>Eliminiere die Schwärme!<>
-Verbleibende Schwärme: <FUEL>%AMOUNT%<>
+Verbleibende Schwärme: <FUEL>%CURRENT%<>/<FUEL>%AMOUNT%<>
 %FLIGHT_TIP%
 
 UI_S22_SWARM_KILL_COUNTDOWN
@@ -295083,6 +295119,14 @@ Prismatischer Kern <TRADEABLE>verlinkt<>
 Finde und besiege den <FUEL>Gläsernen Schwarm<>!
 Öffne im Weltraum die Galaxiekarte mit <IMG>QUICK_MENU<>
 
+UI_S22_HIVE_KILL_MSG4_MAP
+Atlas Interface <FUEL>destroyed<>!
+Track the <FUEL>Hive of Glass<> to the <STELLAR>%SYSTEM%<> system!
+In space, consult the Galaxy Map with <IMG>QUICK_MENU<>
+Atlas-Schnittstelle <FUEL>zerstört<>
+Finde und besiege den <FUEL>Gläsernen Schwarm<>!
+Öffne im Weltraum die Galaxiekarte mit <IMG>QUICK_MENU<>
+
 UI_S22_HIVE_KILL_OSD
 THE HIVE OF GLASS APPROACHES
 DER GLÄSERNE SCHWARM NÄHERT SICH
@@ -295569,6 +295613,16 @@ Next activity in: <IMG>CLOCK<>%TIME%
 <SPECIAL>Prismatischer Kern<> – Fortschritte: <STELLAR>%CMTOTALPERCENT%<>
 Missionen während der Schwarmaktivität durchführen
 Nächste Aktivität in: <IMG>CLOCK<>%TIME%
+
+UI_S22_SWARM_COMM_MSGB_MC
+<SPECIAL>Prismatic Core<> progress: <STELLAR>%CMTOTALPERCENT%<>
+Undertake missions during swarm activity
+Next activity in: <IMG>CLOCK<>%TIME%
+You may switch between the expedition and your primary save at any time
+<SPECIAL>Prismatischer Kern<> – Fortschritte: <STELLAR>%CMTOTALPERCENT%<>
+Missionen während der Schwarmaktivität durchführen
+Nächste Aktivität in: <IMG>CLOCK<>%TIME%
+Du kannst jederzeit zwischen der Expedition und deinem Primärspeicher wechseln
 
 UI_S22_SWARM_COMM_MSG_COMBAT
 Complete a <STELLAR>purge<> mission to engage the swarm in <FUEL>combat<>
@@ -296562,7 +296616,7 @@ Fallen swarmers detected in the %SYSTEM% system. Disassemble swarm remnants and 
 Abgestürzte Schwärmer im System %SYSTEM% entdeckt. Zerlege Überreste des Schwarms und verhindere, dass sie zurückerlangt werden.
 
 UI_SWARM_KILL_GR_SUB
-Prevent reclaimation of fallen swarmers
+Prevent reclamation of fallen swarmers
 Rückholung abgestürzter Schwärmer vereiteln
 
 UI_SWARM_KILL_GR_NOTIFY
@@ -296570,7 +296624,7 @@ Disassemble fallen swarmers
 Abgestürzte Schwärmer zerlegen
 
 UI_MISSION_OBJ_SWARM_KILL_GR
-Disrupt swarm reclaimation operations
+Disrupt swarm reclamation operations
 Operationen zur Schwarmrückerlangung stören
 
 UI_SWARM_KILL_GR_OBJ1
